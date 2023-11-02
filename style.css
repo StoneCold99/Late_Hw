@@ -1,0 +1,67 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwoNDQ0NDQ8NDQ0IDQoIDQ0NDQ8NDwgNFREWFhURExMYHCggGBolGxMTITEhJSk3Li4xIyszODMtNygtLisBCgoKDg0OFw8QFysbFRkrOCs3Ly0rKystLS04Ky03MisrKy0tKy0rLS0tLSsrNystKy0rLS0rKy0tKy0rKysrK//AABEIAKkBKwMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAMRABAAIBAgMFBwIHAAAAAAAAAAECEQMEEiFBBTFRYXETMkJSgZGhFCIGM4KxwdHw/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECAwYE/8QAHREBAQADAAMBAQAAAAAAAAAAAAECERIhMVEDQf/aAAwDAQACEQMRAD8A+pAeAeuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABQESZQSIyk2ACgAACMgkRlEipyjKMomUNLZMs+JaK2NVfC2U5U4fNbC6qJylUQWCAQAUAAAAAAAAAAEEs72ZWRa14hl+pxLO8sLJMvLfL1qatLRz5ecdybaPWOcT4PHprWpPLu6x0l3bfdVt7szE9Yddy+3O4Wems1mFW0a3jET6cjFJ7p+ksXD4nWvbHKcptpzCkw522NblWyZUE7XS+UZUyrN1mS8tMomzC2tEObW3cQ1N301y7bakR3y5tffVjlXnP4edq7i09Va6Gtf3aWnPXGI+8u2GH1Lppbte9PhrafOZ5MNT+INxM8opH0mXTTsTUt/MtFY8K/ul112Oz20cdojMfFeeKZ9I/wBO/WHxqcT+brzNPtzXz+6KT5YmHv7fU461t3ccRbHg+X3+v+o14mleGIitI7s285fUaVOCla/LEV/DH6yQ/STU8atXhaFIXh80c6mEohKsgCgAAAAAAAAACLM7Q1lWYRY5rVZWq6pqzmrFdJXLarOaf94Ou1FJoS6aV0t3evK37o/Ls0txp27p5+E8pcU6ak6bcyZuMr1YlbLyqX1K91p9J5tq7y/WsT6ThrqVi4O7kiaQ5672nWJj8rxu9Lx+8SaxTVXnRjxn7KTton4p+yf1Wl80Ind6Xzf3JjibyUns+k99rfSYj/BXs7bx8Mz6zMptvdPzn6Mrb+elfvLfUhrKuqmlp192tY84iM/c1dalYzaYh519xrW649OX5ZRpWmeeZ9Wbm1MG+47R6acf1W6fR5W547zm0zafPp6PU09nM97p09vSvTM+MpP0+NTWLxex9pM6sTaPczec/h788yIThM8rkmWW7shaARiphJAIAKAAAAAAAAAAAAKzCs1aIwml2ymqk1bzCMM6alYTRXgdHCjhTS9OedNX2bq4TgDpyTponSdnAcC+Tpx+xPYuzgOBPK9OP2S0aDrii0VXVTpzV0IbV04hpgwvLNyquE4WFRUTgwCEiQAFQAAAAAAAAAAAAAAAARhICMGEgqMGEiCMGEggAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//2Q==);
+    font-family: 'Arial';
+}
+
+.Sign-In{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background-image: url(https://assets.aboutamazon.com/dims4/default/5d463dc/2147483647/strip/false/crop/1600x1600+0+0/resize/1486x1486!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F41%2Fb7%2F95c34d494772ac847d0d885f8e7b%2Fsquid-orange-logo.jpg);
+        border-radius: 15px ;
+
+}
+h2{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 20px;
+}
+
+label{
+    color: blanchedalmond;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blueviolet;
+
+
+}
+span{
+    color: blanchedalmond;
+    font-size: 17px;
+}
+a{
+    float: right;
+    background-color: grey;
+}
